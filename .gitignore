@@ -1,0 +1,6 @@
+TFT.Generic/obj/Release/netstandard2.0/TFT.Generic.AssemblyInfo.cs
+StrategyInterface/obj/Release/netstandard2.0/StrategyInterface.AssemblyInfo.cs
+RCOM.Generic/obj/Release/netstandard2.0/RCOM.Generic.AssemblyInfo.cs
+LED.Generic/obj/Release/netstandard2.0/LED.Generic.AssemblyInfo.cs
+CAM.Generic/obj/Release/netstandard2.0/CAM.Generic.AssemblyInfo.cs
+StrategyPatternDoneRight/obj/Release/netcoreapp2.2/StrategyPatternDoneRight.AssemblyInfo.cs
