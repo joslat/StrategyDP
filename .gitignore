@@ -4,3 +4,15 @@ RCOM.Generic/obj/Release/netstandard2.0/RCOM.Generic.AssemblyInfo.cs
 LED.Generic/obj/Release/netstandard2.0/LED.Generic.AssemblyInfo.cs
 CAM.Generic/obj/Release/netstandard2.0/CAM.Generic.AssemblyInfo.cs
 StrategyPatternDoneRight/obj/Release/netcoreapp2.2/StrategyPatternDoneRight.AssemblyInfo.cs
+StrategyPatternDoneRight/obj/StrategyPatternDoneRight.csproj.nuget.dgspec.json
+StrategyInterface/obj/StrategyInterface.csproj.nuget.dgspec.json
+RCOM.Generic/obj/RCOM.Generic.csproj.nuget.dgspec.json
+LED.Generic/obj/LED.Generic.csproj.nuget.dgspec.json
+CAM.Generic/obj/CAM.Generic.csproj.nuget.dgspec.json
+StrategyPatternDoneRight/obj/project.assets.json
+StrategyInterface/obj/project.assets.json
+CAM.Generic/obj/project.assets.json
+TFT.Generic/obj/project.assets.json
+LED.Generic/obj/project.assets.json
+RCOM.Generic/obj/project.assets.json
+TFT.Generic/obj/TFT.Generic.csproj.nuget.dgspec.json
