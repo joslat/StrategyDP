@@ -1,0 +1,17 @@
+D:\jola\Learning\StrategyDP\StrategyInterface\bin\Debug\netstandard2.0\StrategyInterface.deps.json
+D:\jola\Learning\StrategyDP\StrategyInterface\bin\Debug\netstandard2.0\StrategyInterface.dll
+D:\jola\Learning\StrategyDP\StrategyInterface\bin\Debug\netstandard2.0\StrategyInterface.pdb
+D:\jola\Learning\StrategyDP\StrategyInterface\obj\Debug\netstandard2.0\StrategyInterface.csproj.CoreCompileInputs.cache
+D:\jola\Learning\StrategyDP\StrategyInterface\obj\Debug\netstandard2.0\StrategyInterface.AssemblyInfoInputs.cache
+D:\jola\Learning\StrategyDP\StrategyInterface\obj\Debug\netstandard2.0\StrategyInterface.AssemblyInfo.cs
+D:\jola\Learning\StrategyDP\StrategyInterface\obj\Debug\netstandard2.0\StrategyInterface.dll
+D:\jola\Learning\StrategyDP\StrategyInterface\obj\Debug\netstandard2.0\StrategyInterface.pdb
+C:\Users\jola\source\repos\StrategyPatternDoneRight\StrategyInterface\bin\Debug\netstandard2.0\StrategyInterface.deps.json
+C:\Users\jola\source\repos\StrategyPatternDoneRight\StrategyInterface\bin\Debug\netstandard2.0\StrategyInterface.dll
+C:\Users\jola\source\repos\StrategyPatternDoneRight\StrategyInterface\bin\Debug\netstandard2.0\StrategyInterface.pdb
+C:\Users\jola\source\repos\StrategyPatternDoneRight\StrategyInterface\obj\Debug\netstandard2.0\StrategyInterface.csprojAssemblyReference.cache
+C:\Users\jola\source\repos\StrategyPatternDoneRight\StrategyInterface\obj\Debug\netstandard2.0\StrategyInterface.csproj.CoreCompileInputs.cache
+C:\Users\jola\source\repos\StrategyPatternDoneRight\StrategyInterface\obj\Debug\netstandard2.0\StrategyInterface.AssemblyInfoInputs.cache
+C:\Users\jola\source\repos\StrategyPatternDoneRight\StrategyInterface\obj\Debug\netstandard2.0\StrategyInterface.AssemblyInfo.cs
+C:\Users\jola\source\repos\StrategyPatternDoneRight\StrategyInterface\obj\Debug\netstandard2.0\StrategyInterface.dll
+C:\Users\jola\source\repos\StrategyPatternDoneRight\StrategyInterface\obj\Debug\netstandard2.0\StrategyInterface.pdb

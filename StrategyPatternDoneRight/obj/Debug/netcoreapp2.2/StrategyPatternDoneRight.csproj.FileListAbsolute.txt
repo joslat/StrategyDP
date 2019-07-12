@@ -1,0 +1,14 @@
+C:\Users\jola\source\repos\StrategyPatternDoneRight\StrategyPatternDoneRight\bin\Debug\netcoreapp2.2\StrategyPatternDoneRight.deps.json
+C:\Users\jola\source\repos\StrategyPatternDoneRight\StrategyPatternDoneRight\bin\Debug\netcoreapp2.2\StrategyPatternDoneRight.runtimeconfig.json
+C:\Users\jola\source\repos\StrategyPatternDoneRight\StrategyPatternDoneRight\bin\Debug\netcoreapp2.2\StrategyPatternDoneRight.runtimeconfig.dev.json
+C:\Users\jola\source\repos\StrategyPatternDoneRight\StrategyPatternDoneRight\bin\Debug\netcoreapp2.2\StrategyPatternDoneRight.dll
+C:\Users\jola\source\repos\StrategyPatternDoneRight\StrategyPatternDoneRight\bin\Debug\netcoreapp2.2\StrategyPatternDoneRight.pdb
+C:\Users\jola\source\repos\StrategyPatternDoneRight\StrategyPatternDoneRight\bin\Debug\netcoreapp2.2\StrategyInterface.dll
+C:\Users\jola\source\repos\StrategyPatternDoneRight\StrategyPatternDoneRight\bin\Debug\netcoreapp2.2\StrategyInterface.pdb
+C:\Users\jola\source\repos\StrategyPatternDoneRight\StrategyPatternDoneRight\obj\Debug\netcoreapp2.2\StrategyPatternDoneRight.csprojAssemblyReference.cache
+C:\Users\jola\source\repos\StrategyPatternDoneRight\StrategyPatternDoneRight\obj\Debug\netcoreapp2.2\StrategyPatternDoneRight.csproj.CoreCompileInputs.cache
+C:\Users\jola\source\repos\StrategyPatternDoneRight\StrategyPatternDoneRight\obj\Debug\netcoreapp2.2\StrategyPatternDoneRight.AssemblyInfoInputs.cache
+C:\Users\jola\source\repos\StrategyPatternDoneRight\StrategyPatternDoneRight\obj\Debug\netcoreapp2.2\StrategyPatternDoneRight.AssemblyInfo.cs
+C:\Users\jola\source\repos\StrategyPatternDoneRight\StrategyPatternDoneRight\obj\Debug\netcoreapp2.2\StrategyPatternDoneRight.csproj.CopyComplete
+C:\Users\jola\source\repos\StrategyPatternDoneRight\StrategyPatternDoneRight\obj\Debug\netcoreapp2.2\StrategyPatternDoneRight.dll
+C:\Users\jola\source\repos\StrategyPatternDoneRight\StrategyPatternDoneRight\obj\Debug\netcoreapp2.2\StrategyPatternDoneRight.pdb
